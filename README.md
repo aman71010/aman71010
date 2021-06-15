@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aman.
-- 👀 I’m interested in Web Development.
+- 👀 I’m currently learning Web Development.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: amangupta71010@gmail.com
 
 <!---
