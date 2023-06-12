@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **frontend technologies**
 
