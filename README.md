@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">Full Stack Development Enthusiast.</h3>
 
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **frontend technologies**
-
 - 📫 How to reach me **amangupta71010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
